@@ -1,0 +1,288 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_D6F6FC70_CDF1_A0C9_41D0_B15D31AAAF89.source = https://www.instagram.com/sight360graus/?hl=pt-br
+
+## E-Learning
+
+### Question Screen
+quizQuestion_01DE9C25_1095_583F_41AC_DB14C87A2371.ok = OK
+
+### Report Screen
+quizScore_01D8EC26_1095_583D_4188_D5A2208258A3.title = - SCORE -
+quizScore_01D8EC26_1095_583D_4188_D5A2208258A3.completion = Completed
+quizScore_01D8EC26_1095_583D_4188_D5A2208258A3.questionsCorrect = Correct
+quizScore_01D8EC26_1095_583D_4188_D5A2208258A3.downloadCSV = Download .csv
+quizScore_01D8EC26_1095_583D_4188_D5A2208258A3.questionsIncorrect = Incorrect
+quizScore_01D8EC26_1095_583D_4188_D5A2208258A3.items = Items Found
+quizScore_01D8EC26_1095_583D_4188_D5A2208258A3.questions = Questions
+quizScore_01D8EC26_1095_583D_4188_D5A2208258A3.repeat = Repeat
+quizScore_01D8EC26_1095_583D_4188_D5A2208258A3.submitToLMS = Submit
+quizScore_01D8EC26_1095_583D_4188_D5A2208258A3.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_01DC7C24_1095_583D_4192_155C336DA7D3.title = - TIMEOUT -
+quizTimeout_01DC7C24_1095_583D_4192_155C336DA7D3.repeat = Repeat
+quizTimeout_01DC7C24_1095_583D_4192_155C336DA7D3.score = View Score
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_E02FA510_C592_3E8C_41C4_57908ED2C6B9.text = CLIQUE NO BOTÃO ABAIXO E CONHEÇA O TORRE DI GIUSEPPE!
+HotspotPanoramaOverlayTextImage_355BC378_1A82_5BCE_41A7_03A90B3A47DD.text = DESCER
+HotspotPanoramaOverlayTextImage_361BB354_1A82_5BC6_417C_CD813E127812.text = DESCER
+HotspotPanoramaOverlayTextImage_5F507DD4_4D5F_7439_41CA_745C60D4E901.text = DESCER
+HotspotPanoramaOverlayTextImage_C4721062_D3B6_C943_41B7_852BCC7A8D4B.text = OS NICHOS POSSUEM A OPÇÃO DE PERSONALIZAÇÃO INDIVIDUAL POR PARTE DO CLIENTE, PERMITINDO QUE ESCOLHAM O ACABAMENTO E MATERIAL DE ACORDO COM SUAS PREFERÊNCIAS INDIVIDUAIS!
+HotspotPanoramaOverlayTextImage_C931A927_D3C9_78C2_41D7_DE242C202769.text = PORTEIRO ELETRÔNICO
+HotspotPanoramaOverlayTextImage_37BADEA0_1A8E_AD7E_41B2_FABDB3D9E517.text = SUBIR
+HotspotPanoramaOverlayTextImage_36184354_1A82_5BC6_4193_76E23E74571E.text = SUBIR
+
+## Media
+
+### Audio
+audiores_15489A7D_1A90_84E1_41AA_E5D3AABDAB0E.mp3Url = media/audio_14396863_1A97_84E1_41AB_48EFB1A4AD4A_en.mp3
+audiores_5661E668_4EDC_94E9_41A9_EB0AD475E024.mp3Url = media/audio_58F06416_4EC5_F426_41A5_76CADA564527_en.mp3
+audiores_5662B37A_4EDC_ECE9_41C6_196FDCE76015.mp3Url = media/audio_58F55DAE_4EC5_9469_41C0_5C76DB904A0B_en.mp3
+audiores_56676913_4EDC_9C3E_41C4_19B4BBAEFDEB.mp3Url = media/audio_591E518C_4EC5_6C29_41C6_A4CE26F12F42_en.mp3
+audiores_591EDA6E_4EC4_9CE6_41B9_56BAF4EED515.mp3Url = media/audio_593CF9AE_4EC4_BC69_41D0_D3791FFC3F32_en.mp3
+audiores_591EDA6E_4EC4_9CE6_41B9_56BAF4EED515.mp3Url = media/audio_593CF9AE_4EC4_BC69_41D0_D3791FFC3F32_en.mp3
+audiores_591EDA6E_4EC4_9CE6_41B9_56BAF4EED515.mp3Url = media/audio_593CF9AE_4EC4_BC69_41D0_D3791FFC3F32_en.mp3
+audiores_591EDA6E_4EC4_9CE6_41B9_56BAF4EED515.mp3Url = media/audio_593CF9AE_4EC4_BC69_41D0_D3791FFC3F32_en.mp3
+audiores_59432876_4EC7_BCF9_41C7_0126596E58C4.mp3Url = media/audio_59A9C887_4EC7_7C27_41B3_02BC497E4A12_en.mp3
+audiores_59432876_4EC7_BCF9_41C7_0126596E58C4.mp3Url = media/audio_59A9C887_4EC7_7C27_41B3_02BC497E4A12_en.mp3
+audiores_59432876_4EC7_BCF9_41C7_0126596E58C4.mp3Url = media/audio_59A9C887_4EC7_7C27_41B3_02BC497E4A12_en.mp3
+audiores_59432876_4EC7_BCF9_41C7_0126596E58C4.mp3Url = media/audio_59A9C887_4EC7_7C27_41B3_02BC497E4A12_en.mp3
+audiores_59432876_4EC7_BCF9_41C7_0126596E58C4.mp3Url = media/audio_59A9C887_4EC7_7C27_41B3_02BC497E4A12_en.mp3
+audiores_40BBD1A5_54A1_EFC0_41C5_65087507BCFE.mp3Url = media/audio_6EBF4857_4F44_FC27_4184_BBE94B1264FB_en.mp3
+audiores_58FE19B8_4EC4_9C69_4194_3AB666C59DFA.mp3Url = media/audio_C0819BAF_D35F_3FC2_41E2_D48D50205F3A_en.mp3
+audiores_58FE19B8_4EC4_9C69_4194_3AB666C59DFA.mp3Url = media/audio_C0819BAF_D35F_3FC2_41E2_D48D50205F3A_en.mp3
+audiores_58FE19B8_4EC4_9C69_4194_3AB666C59DFA.mp3Url = media/audio_C0819BAF_D35F_3FC2_41E2_D48D50205F3A_en.mp3
+audiores_DC9E34AB_D343_0252_41E2_673CA5601D41.mp3Url = media/audio_C637F3BC_D357_4FC7_41E2_1B6FC6557F95_en.mp3
+audiores_DC9E34AB_D343_0252_41E2_673CA5601D41.mp3Url = media/audio_C637F3BC_D357_4FC7_41E2_1B6FC6557F95_en.mp3
+audiores_C7CF499A_D357_5BC3_41E1_D0756DF67298.mp3Url = media/audio_C73AD3D6_D349_CF42_41E3_B71EE308DE4F_en.mp3
+audiores_D9A6EE76_C117_F958_41D3_DB7958290D30.mp3Url = media/audio_C7F6B95B_D34B_5B41_41D4_B87329F73E65_en.mp3
+audiores_D9A6EE76_C117_F958_41D3_DB7958290D30.mp3Url = media/audio_C7F6B95B_D34B_5B41_41D4_B87329F73E65_en.mp3
+audiores_D9D9C1E7_C115_6B78_41D5_427E75CEEAAB.mp3Url = media/audio_D879E4C5_C115_E9B8_41E6_556CB8F8305C_en.mp3
+audiores_D9D9C1E7_C115_6B78_41D5_427E75CEEAAB.mp3Url = media/audio_D879E4C5_C115_E9B8_41E6_556CB8F8305C_en.mp3
+audiores_D9D9C1E7_C115_6B78_41D5_427E75CEEAAB.mp3Url = media/audio_D879E4C5_C115_E9B8_41E6_556CB8F8305C_en.mp3
+audiores_D9D9C1E7_C115_6B78_41D5_427E75CEEAAB.mp3Url = media/audio_D879E4C5_C115_E9B8_41E6_556CB8F8305C_en.mp3
+audiores_D9D9C1E7_C115_6B78_41D5_427E75CEEAAB.mp3Url = media/audio_D879E4C5_C115_E9B8_41E6_556CB8F8305C_en.mp3
+audiores_D9D9C1E7_C115_6B78_41D5_427E75CEEAAB.mp3Url = media/audio_D879E4C5_C115_E9B8_41E6_556CB8F8305C_en.mp3
+
+### Floorplan
+
+### Image
+imlevel_CE0DA27B_D3CB_4941_41B7_72C4857F55C8.url = media/map_1B71F937_0349_843B_4184_1930D987763E_en_0.jpg
+imlevel_CE0D927B_D3CB_4941_41E4_71A8F9134879.url = media/map_1B71F937_0349_843B_4184_1930D987763E_en_1.jpg
+imlevel_CE0D827B_D3CB_4941_41C0_5448C22E53BF.url = media/map_1B71F937_0349_843B_4184_1930D987763E_en_2.jpg
+imlevel_CE0A727B_D3CB_4941_41E9_CA713CF54C83.url = media/map_1B71F937_0349_843B_4184_1930D987763E_en_3.jpg
+imlevel_CE33A6FD_D3D6_C941_41D6_E8FCC4A56017.url = media/panorama_15C6D041_18BA_665D_41A0_CE3EA789DB67_HS_2caz4ou7_en.png
+imlevel_CE32C6D9_D3D6_C94E_41C9_EECBC4171939.url = media/panorama_15C6D041_18BA_665D_41A0_CE3EA789DB67_HS_50obfley_en.png
+imlevel_CE31367A_D3D6_C943_41A0_B87F345B8BEA.url = media/panorama_15C98E81_18B5_9ADD_41B6_536ADE00DBEC_HS_6k4qusde_en.png
+imlevel_CE31F6AE_D3D6_C9C3_41E6_F7EA6DF22855.url = media/panorama_15C98E81_18B5_9ADD_41B6_536ADE00DBEC_HS_rv29n15f_en.png
+imlevel_CE36774F_D3D6_D742_41CF_16E1ECB33A0F.url = media/panorama_2EA24B9F_2349_A109_41C0_D35B19F3F56B_HS_2cx4e08q_en.png
+imlevel_CE347724_D3D6_C8C6_41EA_16B542C13F8E.url = media/panorama_5E6DDFF2_4D47_B3FE_41D0_FE6118553774_HS_0tzprv9f_en.png
+imlevel_CE3F4579_D3D6_CB4E_41B6_F3FCAC0A3936.url = media/panorama_D1DCF9BF_C113_9BC8_41B7_E6C6958B2CF6_HS_vkbe0t5e_en.png
+imlevel_CC8A4389_D3D6_CFC1_41B7_900ABC9DA0BF.url = media/panorama_D1DD85F3_C113_6B58_41DB_1F13E81FA86F_HS_gltm6oxa_en.png
+
+### Title
+panorama_C5CFB735_D359_48C1_41DF_DDD2CB5D562C.label = Academia 1
+panorama_DE442E2E_D343_3E52_41E2_A60E629EF551.label = Academia 2
+panorama_2EA24B9F_2349_A109_41C0_D35B19F3F56B.label = Banheiro
+panorama_15C98E81_18B5_9ADD_41B6_536ADE00DBEC.label = Elevador Garagem
+panorama_5448883B_4F45_7C6E_4199_10D30A5E83E6.label = Elevador Hall entrada
+panorama_5E6DDFF2_4D47_B3FE_41D0_FE6118553774.label = Elevador hall AP
+panorama_15C6D041_18BA_665D_41A0_CE3EA789DB67.label = Elevador lazer
+panorama_D1DA91E5_C114_AB7A_41E1_B27ECC22664A.label = Externa 1
+panorama_D1DD85F3_C113_6B58_41DB_1F13E81FA86F.label = Externa 2
+panorama_D1DCF9BF_C113_9BC8_41B7_E6C6958B2CF6.label = Externa 3
+panorama_1530D57E_18B5_EE27_41A1_736BD659D966.label = Garagem
+panorama_5CC2B2E3_4D47_EC1E_41CF_31DC17F6D274.label = Hall apartamento
+panorama_52694472_4F45_94F9_41C7_DBDF9F103F40.label = Hall de entrada
+panorama_5CC240F3_4D47_EDFF_41C3_E84BD8486375.label = Hall do lazer
+panorama_15C60DA2_18BA_FEDF_41A4_CFCBE5940932.label = Living 1
+panorama_15C6934D_18BA_AA65_41A3_D639D33C2DEA.label = Living 2
+panorama_15C62702_18BA_6BDF_41B0_063DCD98EC4C.label = Living 3
+map_1B71F937_0349_843B_4184_1930D987763E.label = Planta apartamento
+panorama_15C66961_18BA_665D_41B4_B3C68AB2B594.label = Quarto 1
+panorama_15C7ACDF_18BB_BE65_41A6_245127246E8B.label = Quarto 2
+panorama_15C71054_18BB_E67B_41A2_7919205680E9.label = Quarto 3
+panorama_15C7E274_18BB_EA3B_4190_DD618C2B3014.label = Quarto 4
+panorama_15C6EFFB_18BA_9A2D_41A2_515133865791.label = Sacada
+panorama_D1DCFD03_C113_B8B8_41E3_66A7B5B7D556.label = Salao festas 1
+panorama_D1DD5007_C113_E8B8_41D6_01CF59A37FD9.label = Salão festas 2
+panorama_D1DD53C0_C113_EFB9_41CC_4101E4B6ED55.label = Salão festas 3
+panorama_D1DD56C3_C113_A9B8_41DB_7907E2C31FB9.label = Salão festas 4
+panorama_D1DD79D6_C113_9B58_41E4_C95950D012E9.label = Salão festas 5
+panorama_D1DDDE27_C113_78F8_41D3_156703311C2F.label = Salão festas 6
+video_57D98F4C_4ECC_B429_41B3_530DCA659E7F.label = Torre di Giuseppe - Alturas V.03
+
+### Video
+videolevel_CE26EC67_D3CB_5941_41E4_C6E1FA6BCA3D.url = media/video_57D98F4C_4ECC_B429_41B3_530DCA659E7F_en.mp4
+videolevel_CE26EC67_D3CB_5941_41E4_C6E1FA6BCA3D.posterURL = media/video_57D98F4C_4ECC_B429_41B3_530DCA659E7F_poster_en.jpg
+
+### Video Subtitles
+
+## Right Click Menu
+
+### Text
+menuItem_D457E921_CDF2_604A_41D6_2ECEB3BB0A84.label = Desenvolvido por Sight 360°
+
+## Skin
+
+### Button
+Button_C085DEDD_86E4_AD45_41D3_A6FBB352D990_mobile.label = ACADEMIA
+Button_C085DEDD_86E4_AD45_41D3_A6FBB352D990.label = ACADEMIA
+Button_1420B726_034A_8DDD_4171_636229AD3B3D.label = APARTAMENTO
+Button_1420B726_034A_8DDD_4171_636229AD3B3D_mobile.label = APARTAMENTO
+Button_D83D1CF3_C5B3_EF8C_41E3_1B2B0ADBC38E.label = Academia 1
+Button_EECF5B69_C59E_6A9C_41E6_8E52C7951A92_mobile.label = Academia 1
+Button_D83EE6B7_C5B2_3BF4_41A1_EADB2D2B244E.label = Academia 2
+Button_EEC1EB6A_C59E_6A9C_41DD_CF350645E1F7_mobile.label = Academia 2
+Button_73DD278E_54A1_33C0_418E_E0F545F69A49.label = Banheiro suíte
+Button_77AEB76F_54A3_D35F_41D3_B0F04EC18C73_mobile.label = Banheiro suíte
+Button_15D729EC_034E_842D_4177_31A7E4FE544E_mobile.label = ELEVADOR
+Button_15D729EC_034E_842D_4177_31A7E4FE544E.label = ELEVADOR
+Button_0FC7442A_18D6_EE2F_41AA_96DAD1ACC878.label = Elevador apartamento
+Button_0FC7442A_18D6_EE2F_41AA_96DAD1ACC878_mobile.label = Elevador apartamento
+Button_C0837ECF_86E4_AD45_41E0_A364C21E2445.label = Elevador garagem
+Button_C0837ECF_86E4_AD45_41E0_A364C21E2445_mobile.label = Elevador garagem
+Button_0FE7366A_18D6_EA2C_4192_CB2A597EEC74_mobile.label = Elevador salão de festas
+Button_0FE7366A_18D6_EA2C_4192_CB2A597EEC74.label = Elevador salão de festas
+Button_1AC0F081_0924_02F2_41A1_48371657108B_mobile.label = Externa 1
+Button_1AC0F081_0924_02F2_41A1_48371657108B.label = Externa 1
+Button_1B887ACB_093C_0676_4190_500B38D81D8C.label = Externa 2
+Button_1B887ACB_093C_0676_4190_500B38D81D8C_mobile.label = Externa 2
+Button_1D8F9878_093C_0212_4191_061F2CD612E7.label = Externa 3
+Button_1D8F9878_093C_0212_4191_061F2CD612E7_mobile.label = Externa 3
+Button_C0821ED8_86E4_AD4B_41AB_311A04EEF24D.label = GARAGEM
+Button_C0821ED8_86E4_AD4B_41AB_311A04EEF24D_mobile.label = GARAGEM
+Button_C098BEA1_86E4_ADFD_41E0_A775E9B8BA8F_mobile.label = Garagem 1
+Button_C09E1EA2_86E4_ADFF_41B4_75F758D279AE.label = Garagem 1
+Button_14F6401A_0349_83F5_4159_64CEB9C9D1FB.label = HALL APARTAMENTO
+Button_14F6401A_0349_83F5_4159_64CEB9C9D1FB_mobile.label = HALL APARTAMENTO
+Button_C0823EDA_86E4_AD4F_41CB_95D7ACEE614A_mobile.label = HALL AREA DE LAZER
+Button_C0823EDA_86E4_AD4F_41CB_95D7ACEE614A.label = HALL AREA DE LAZER
+Button_C0824ED6_86E4_AD47_41D7_D78F8822E981.label = HALL DE ENTRADA
+Button_C0824ED6_86E4_AD47_41D7_D78F8822E981_mobile.label = HALL DE ENTRADA
+Button_C0807EB0_86E4_ADDB_41D1_5860D932489D_mobile.label = Hall 1
+Button_C0807EB0_86E4_ADDB_41D1_5860D932489D.label = Hall 1
+Button_C0813EB8_86E4_ADCB_41D6_A92A1F21B332.label = Hall 1
+Button_C0813EB8_86E4_ADCB_41D6_A92A1F21B332_mobile.label = Hall 1
+Button_C080CEB1_86E4_ADDD_41DB_4C03D2D77EF3.label = Hall 2
+Button_C080CEB1_86E4_ADDD_41DB_4C03D2D77EF3_mobile.label = Hall 2
+Button_C0811EA9_86E4_ADCD_41DA_06399EED32C3.label = Hall Apartamento 1
+Button_C0811EA9_86E4_ADCD_41DA_06399EED32C3_mobile.label = Hall Apartamento 1
+Button_C0807ECA_86E4_AD4F_41D3_DB29E01A3EA6_mobile.label = Lavanderia
+Button_C0807ECA_86E4_AD4F_41D3_DB29E01A3EA6.label = Lavanderia
+Button_14074FA9_035A_9CD7_4183_CBC27EA2B654_mobile.label = PISCINA
+Button_14074FA9_035A_9CD7_4183_CBC27EA2B654.label = PISCINA
+Button_158F8DE7_034A_7C5B_4166_7FD9FB91AF21_mobile.label = Piscina 1
+Button_158F8DE7_034A_7C5B_4166_7FD9FB91AF21.label = Piscina 1
+Button_1473ADE8_034A_7C55_4188_38C0A5BDCB28.label = Piscina 2
+Button_1473ADE8_034A_7C55_4188_38C0A5BDCB28_mobile.label = Piscina 2
+Button_14743DE9_034A_7C57_417A_1492B6E75268_mobile.label = Piscina 3
+Button_14743DE9_034A_7C57_417A_1492B6E75268.label = Piscina 3
+Button_14748DEA_034A_7C55_416D_92B586C93926_mobile.label = Piscina 4
+Button_14748DEA_034A_7C55_416D_92B586C93926.label = Piscina 4
+Button_14748DEB_034A_7C2B_418A_E185F96966CA_mobile.label = Piscina 5
+Button_14748DEB_034A_7C2B_418A_E185F96966CA.label = Piscina 5
+Button_C080CECB_86E4_AD4D_41CD_C77A348A9A32.label = Quarto 1
+Button_C080CECB_86E4_AD4D_41CD_C77A348A9A32_mobile.label = Quarto 1
+Button_C0803ECC_86E4_AD4B_41CD_01EDC483B701.label = Quarto 2
+Button_C0803ECC_86E4_AD4B_41CD_01EDC483B701_mobile.label = Quarto 2
+Button_C0808ECD_86E4_AD45_41C0_194348BEE17D_mobile.label = Quarto 3
+Button_C0808ECD_86E4_AD45_41C0_194348BEE17D.label = Quarto 3
+Button_C082FEDB_86E4_AD4D_41D9_2F38C22C64AA_mobile.label = SALÃO DE FESTAS
+Button_C082FEDB_86E4_AD4D_41D9_2F38C22C64AA.label = SALÃO DE FESTAS
+Button_C083DEC7_86E4_AD45_41E0_EEC0312D4C51.label = Sala
+Button_C083DEC7_86E4_AD45_41E0_EEC0312D4C51_mobile.label = Sala
+Button_DC8D68F3_C492_378C_41B2_C61C72B579B9.label = Salão de festas 1
+Button_EE46DC79_C592_2F7C_41D4_2A89564039E5_mobile.label = Salão de festas 1
+Button_EEC0906C_C595_D694_41E6_85D3CD5127AA_mobile.label = Salão de festas 2
+Button_DD3866E3_C492_3B8C_41D3_4E822F1AC525.label = Salão de festas 2
+Button_EEED0640_C592_3A8C_41B4_1090FE3E2F60_mobile.label = Salão de festas 3
+Button_DD10CE04_C492_6A94_41B7_FB077C38FC05.label = Salão de festas 3
+Button_DD17ECC3_C492_6F8C_41D2_772AF8910641.label = Salão de festas 4
+Button_EEE0E37A_C592_397C_41D7_9D1E80C45FAF_mobile.label = Salão de festas 4
+Button_EE1B5106_C592_3694_41D8_ECB8B0986AEE_mobile.label = Salão de festas 5
+Button_DD1DDB4E_C492_6A95_41C1_EFBCBA6EF190.label = Salão de festas 5
+Button_DD0D7087_C492_7794_41CD_ABB4278428C9.label = Salão de festas 6
+Button_EE0F6E84_C592_2B94_41E0_331B0A82F264_mobile.label = Salão de festas 6
+Button_C0982EA0_86E4_ADFB_41C7_175288384A92.label = VISÃO EXTERNA
+Button_C0982EA0_86E4_ADFB_41C7_175288384A92_mobile.label = VISÃO EXTERNA
+Button_C0804EC8_86E4_AD4B_41D5_48C786A018E7.label = Visão Panorâmica 1
+Button_C0804EC8_86E4_AD4B_41D5_48C786A018E7_mobile.label = Visão Panorâmica 1
+Button_C0803EC9_86E4_AD4D_41C4_7FDCAF3E4444_mobile.label = Visão Panorâmica 2
+Button_C0803EC9_86E4_AD4D_41C4_7FDCAF3E4444.label = Visão Panorâmica 2
+
+### Image
+Image_3BC7E6D4_1A7E_5AC7_41B6_63AB31AF1CBB.url = skin/Image_3BC7E6D4_1A7E_5AC7_41B6_63AB31AF1CBB_en.png
+Image_3BC7E6D4_1A7E_5AC7_41B6_63AB31AF1CBB_mobile.url = skin/Image_3BC7E6D4_1A7E_5AC7_41B6_63AB31AF1CBB_mobile_en.png
+Image_BD392C47_A623_8912_41CA_4EB4584B21D9.url = skin/Image_BD392C47_A623_8912_41CA_4EB4584B21D9_en.png
+Image_F0F8DCAB_C472_2F9C_41DF_B09BB2146F20.url = skin/Image_F0F8DCAB_C472_2F9C_41DF_B09BB2146F20_en.png
+
+### Multiline Text
+HTMLText_D2CC3A14_CB1D_B12B_41E6_26D563C0B160_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:2.7777777777777763vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.78vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);text-align:center;font-size:4.444444444444444vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Roboto';">ACADEMIA</SPAN></SPAN></DIV></div>
+HTMLText_D28C3727_CB1D_DF75_4173_9CD7228377D9_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:2.7777777777777763vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.78vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);text-align:center;font-size:4.444444444444444vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Roboto';">ELEVADOR</SPAN></SPAN></DIV></div>
+HTMLText_D296C400_CB1D_D12C_41B4_49F8AAF17168_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:2.7777777777777763vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.78vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);text-align:center;font-size:4.444444444444444vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Roboto';">GARAGEM</SPAN></SPAN></DIV></div>
+HTMLText_D2C076F0_CB1D_BEEB_41CF_2AB2B7ADAABF_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:2.7777777777777763vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.78vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);text-align:center;font-size:4.444444444444444vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Roboto';">HALL APARTAMENTO</SPAN></SPAN></DIV></div>
+HTMLText_D2E900B9_CB1D_D15D_41CF_2A701F7B877C_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:2.7777777777777763vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.78vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);text-align:center;font-size:4.444444444444444vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Roboto';">HALL LAZER</SPAN></SPAN></DIV></div>
+HTMLText_D2FB1CEE_CB1D_B2F4_41D1_A83DEE052881_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:2.7777777777777763vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.78vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);text-align:center;font-size:4.444444444444444vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Roboto';">SALÃO DE FESTAS</SPAN></SPAN></DIV></div>
+HTMLText_D2A9FA4A_CB1D_D13F_41E6_6B9EF7415768_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:2.7777777777777763vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.78vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);text-align:center;font-size:4.444444444444444vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Roboto';">ÁREA EXTERNA</SPAN></SPAN></DIV></div>
+HTMLText_D2373F68_CB1D_4FFC_41E6_78354F8EF495_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:2.7777777777777786vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.78vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);text-align:center;font-size:4.444444444444444vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Roboto';">APARTAMENTO</SPAN></SPAN></DIV></div>
+HTMLText_FAAD3538_C792_5EFC_41E8_5156245E7063_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:2.7777777777777786vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.78vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 1px 0px rgba(0,0,0,0.37);text-align:center;font-size:4.444444444444444vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.44vw;font-family:'Roboto';">HALL DE ENTRADA</SPAN></SPAN></DIV></div>
+HTMLText_D2CC3A14_CB1D_B12B_41E6_26D563C0B160.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:0.8670520231213867vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.87vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);text-align:center;font-size:1.541425818882466vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.54vw;font-family:'Roboto';">ACADEMIA</SPAN></SPAN></DIV></div>
+HTMLText_D2373F68_CB1D_4FFC_41E6_78354F8EF495.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:0.8670520231213867vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.87vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);text-align:center;font-size:1.541425818882466vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.54vw;font-family:'Roboto';">APARTAMENTO</SPAN></SPAN></DIV></div>
+HTMLText_D28C3727_CB1D_DF75_4173_9CD7228377D9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:0.8670520231213867vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.87vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);text-align:center;font-size:1.541425818882466vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.54vw;font-family:'Roboto';">ELEVADOR</SPAN></SPAN></DIV></div>
+HTMLText_D296C400_CB1D_D12C_41B4_49F8AAF17168.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:0.8670520231213867vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.87vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);text-align:center;font-size:1.541425818882466vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.54vw;font-family:'Roboto';">GARAGEM</SPAN></SPAN></DIV></div>
+HTMLText_D2C076F0_CB1D_BEEB_41CF_2AB2B7ADAABF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:0.8670520231213867vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.87vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);text-align:center;font-size:1.541425818882466vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.54vw;font-family:'Roboto';">HALL APARTAMENTO</SPAN></SPAN></DIV></div>
+HTMLText_FAAD3538_C792_5EFC_41E8_5156245E7063.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:0.8670520231213867vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.87vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);text-align:center;font-size:1.541425818882466vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.54vw;font-family:'Roboto';">HALL DE ENTRADA</SPAN></SPAN></DIV></div>
+HTMLText_D2E900B9_CB1D_D15D_41CF_2A701F7B877C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:0.8670520231213867vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.87vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);text-align:center;font-size:1.541425818882466vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.54vw;font-family:'Roboto';">HALL LAZER</SPAN></SPAN></DIV></div>
+HTMLText_D2FB1CEE_CB1D_B2F4_41D1_A83DEE052881.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:0.8670520231213867vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.87vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);text-align:center;font-size:1.541425818882466vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.54vw;font-family:'Roboto';">SALÃO DE FESTAS</SPAN></SPAN></DIV></div>
+HTMLText_D2A9FA4A_CB1D_D13F_41E6_6B9EF7415768.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);line-height:114%;text-align:center;font-size:0.8670520231213867vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.87vw;font-family:'Roboto';">VOCÊ ESTÁ VENDO:</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 2px 0px rgba(0,0,0,0.37);text-align:center;font-size:1.541425818882466vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.54vw;font-family:'Roboto';">ÁREA EXTERNA</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Venha se apaixonar pelo mundo 360° e conheça ainda mais esse íncrivel empreendimento no Balneário Perequê.
+
+### Title
+tour.name = Torre di mare - GM Selent
+
+## VR Menu
+
+### Text
+MenuItem_CD1CD967_D3CB_7B41_41DA_5E6380E83348.label = Academia 2
+MenuItem_CD1FC966_D3CB_7B43_41E0_07887BBB17BA.label = Banheiro
+MenuItem_CD1FB961_D3CB_7B41_41DD_732BF3AC93AA.label = Elevador Garagem
+MenuItem_CD1F4967_D3CB_7B41_41E4_A86438762169.label = Elevador Hall entrada
+MenuItem_CD1F8961_D3CB_7B41_41E1_E1267C522C0C.label = Elevador hall AP
+MenuItem_CD1F9966_D3CB_7B43_41C4_89E0B6B9AE41.label = Elevador lazer
+MenuItem_CD1F9961_D3CB_7B41_41E7_814379C53D52.label = Externa 1
+MenuItem_CD1FF961_D3CB_7B41_41CB_EDF4E2D27E9D.label = Externa 2
+MenuItem_CD1CF967_D3CB_7B41_418A_1DCCEB0EF796.label = Externa 3
+Menu_6E241447_4AE4_2DBF_41AD_8074DC9234C9.label = GM Selent
+MenuItem_CD1F1967_D3CB_7B41_41D9_3AEDBCE29884.label = Garagem
+MenuItem_CD1FA967_D3CB_7B41_41A2_D21AE8CA85A8.label = Hall apartamento
+MenuItem_CD1CC967_D3CB_7B41_41B2_B84BDD8CC81D.label = Hall de entrada
+MenuItem_CD1F5967_D3CB_7B41_41C1_7E1032D61653.label = Hall do lazer
+MenuItem_CD1FD961_D3CB_7B41_41E5_91F72AEAB9EB.label = Living 1
+MenuItem_CD1E0961_D3CB_7B41_41EA_1CC37CB09573.label = Living 2
+MenuItem_CD1E6961_D3CB_7B41_41D7_E54877256681.label = Living 3
+MenuItem_CD1F6967_D3CB_7B41_41CD_6211E513B248.label = Quarto 1
+MenuItem_CD1E3961_D3CB_7B41_41D2_8B8AEC4B367A.label = Quarto 2
+MenuItem_CD1F2967_D3CB_7B41_41E4_52D914E4B0B9.label = Quarto 3
+MenuItem_CD1FE966_D3CB_7B43_41E0_CB3F3033107C.label = Quarto 4
+MenuItem_CD1F8967_D3CB_7B41_4199_5326E1BDEEAE.label = Sacada
+MenuItem_CD1FD966_D3CB_7B43_41DD_8489DD22C1BC.label = Salao festas 1
+MenuItem_CD1FC961_D3CB_7B41_41C4_C1FB4E72C505.label = Salão festas 2
+MenuItem_CD1CE967_D3CB_7B41_419F_CF14861C61A0.label = Salão festas 3
+MenuItem_CD1F0967_D3CB_7B41_41E0_EF6ABC43EAD0.label = Salão festas 4
+MenuItem_CD1FB967_D3CB_7B41_41CB_D57E2E31098F.label = Salão festas 5
+MenuItem_CD1FF966_D3CB_7B43_41D4_CBDDD74944FD.label = Salão festas 6
